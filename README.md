@@ -1,2 +1,2 @@
-# -HAI801--Week4-LAPORTE
+# HAI801-Week4-LAPORTE
 Chess optimisation
